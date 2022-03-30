@@ -8,3 +8,4 @@ This is a repository for my notes
 *if you want to cut a corner in pushing use the command add -(I gotta look this one up)
 *I've learned that messages in the terminal do not  have to cryptic or scary
 *they just have to be read slowly
+*control C ejects us out of strings and out of programs/process (terminating a process)
